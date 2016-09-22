@@ -1,0 +1,7 @@
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\MvcMovie.dll
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\MvcMovie.pdb
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\EntityFramework.dll
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\bin\EntityFramework.xml
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
+c:\users\quigleys\documents\visual studio 2010\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
